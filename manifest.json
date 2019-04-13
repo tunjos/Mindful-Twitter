@@ -3,7 +3,7 @@
 
   "name": "Mindful Twitter",
   "description": "Explore Twitter Mindfully...",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage_url": "https://github.com/tunjos/Mindful-Twitter",
 
   "browser_action": {

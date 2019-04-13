@@ -3,7 +3,6 @@
 // #global-nav-home > a > span.text
 $('.global-nav-home .').hide();
 
-
 // Hide Notifications Notifications
 // #global-actions > li.people.notifications > a > span.count
 $('.people.notifications .count').hide();
@@ -17,5 +16,6 @@ $('.dm-nav .dm-new').hide();
 
 Todo
 -------
+- Find a way to neatly remove home notifications dot
 - Find a way to switch between inactive and active states of icons: chrome.browserAction.setIcon
 - Add Simple Keyboard shortcuts

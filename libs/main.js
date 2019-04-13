@@ -31,8 +31,9 @@ function getHiddenStatus(type) {
 
 function doHideNotification(type, hide) {
     if (type === 'TYPE_NOTIFICATIONS') {
-    // #global-actions > li.people.notifications > a > span.count
-        if (hide) {
+				var count = $('.people.notifications .count span').text();
+
+				if (hide || count == "0") {
             $('.people.notifications .count').hide();
         } else {
             $('.people.notifications .count').show();
@@ -40,7 +41,7 @@ function doHideNotification(type, hide) {
     } else if (type === 'TYPE_MESSAGES') {
     // #global-actions > li.dm-nav > a > span.text
         if (hide) {
-            $('.dm-nav .dm-new').hide();            
+            $('.dm-nav .dm-new').hide();
         } else {
             $('.dm-nav .dm-new').show();
         }
