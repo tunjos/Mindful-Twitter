@@ -1,8 +1,8 @@
 
-![Mindful Twitter](images/mindful48.png "Logo Title Text 1")Mindful Twitter
+![Mindful Twitter™](images/mindful48.png "Logo Title Text 1")Mindful Twitter
 ==========
 
-Explore Twitter Mindfully on the web. Available on the Chrome Webstore at [Mindful Twitter](https://chrome.google.com/webstore/detail/mindful-twitter/ngdoooaiepnfpllgkjpfphicafinlgge)
+Explore Twitter Mindfully on the web. Available on the Chrome Webstore at [Mindful Twitter™](https://chrome.google.com/webstore/detail/mindful-twitter/ngdoooaiepnfpllgkjpfphicafinlgge)
 
 
 Features
